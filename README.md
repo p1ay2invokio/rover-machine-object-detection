@@ -1,2 +1,2 @@
 #Example
-![App Screenshot]('./i1.png')
+![App screenshot]('./i1.png')
